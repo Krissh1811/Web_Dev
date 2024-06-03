@@ -1,4 +1,4 @@
 # Web_Dev
 My first Git Repo!!!
 <br>
-Author - Krissh Sachdeva
+I'm Learning how to use Git
